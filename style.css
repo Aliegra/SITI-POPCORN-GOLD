@@ -1,0 +1,62 @@
+.navbar-brand{
+    color: coral;
+}
+.seksyen1{
+    background-color: rgb(233, 115, 18);
+    padding: 7% 1% 7%;
+}
+.banner{
+    text-align: center;
+}
+.heading-Popcorn{
+    color: rgb(255, 238, 2);
+}
+.heading-Gold{
+    color: rgb(0, 0, 0);
+}
+.tulisanPutih{
+    color: rgb(27, 25, 25);
+}
+
+/* Seksyen 2 */
+
+.seksyen2{
+    background-color: burlywood;
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+.icon{
+    color: coral;
+    margin-bottom: 1rem;
+}
+.feature-box{
+    padding: 4.5%;
+}
+.seksyen4{
+    background-color: bisque;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+.seksyen5{
+    background-color: rgb(180, 179, 163);
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+    
+}
+.seksyen6{
+    background-color: #4b9bd8;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+    
+}
+.footer{
+    background-color: bisque;
+    padding: 2%;
+    text-align: center;
+}
+.media{
+    color: black;
+}
